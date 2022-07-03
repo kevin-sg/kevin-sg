@@ -46,7 +46,7 @@
 ## Contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](www.linkedin.com/in/kevinsalazar99)
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white(https://twitter.com/KevinSaG99)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KevinSaG99)
 ---
 
 -   **Thanks for visiting.**
