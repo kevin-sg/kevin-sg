@@ -45,7 +45,6 @@
 
 ## Contact me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/kevin-sg)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](www.linkedin.com/in/kevinsalazar99)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitterin&logoColor=white&link=LINK_TWITTER)](https://twitter.com/KevinSaG99)
 ---
