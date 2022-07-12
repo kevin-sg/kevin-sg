@@ -1,8 +1,6 @@
 <div id="header" align="center">
 
-# Hello World!
-
-## I'm Kevin Salazar!
+## Hi there 👋 I'm Kevin Salazar!
 
 :computer: I'm Front-End & Back-end Developer!
 :books: I am currently improving my skills.
@@ -11,10 +9,11 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KevinSaG99)
 
-![](https://komarev.com/ghpvc/?username=kevin-sg&style=flat-square)
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.kevin-sg)
+  
 </div>
   
-## 🖥️ Technologies:
+## 🖥️ Languages and Tools:
 
 <div id="sidebar" align="center">
   
@@ -51,8 +50,8 @@
   
 </div>
 
-## 🔥My Stat:
+## 🔥My Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-sg&theme=highcontrast&show_icons=true)
 
 -   **Thanks for visiting.**
