@@ -6,7 +6,6 @@
 :books: I am currently improving my skills.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsalazar99) 
-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KevinSaG99)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.kevin-sg)
