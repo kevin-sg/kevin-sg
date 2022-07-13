@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-## Hi there 👋 I'm Kevin Salazar!
+# Hi there 👋 I'm Kevin Salazar!
 
 :computer: I'm Front-End & Back-end Developer!
 
@@ -13,7 +13,7 @@
   
 </div>
   
-## 🖥️ Languages and Tools:
+## 🖥️
 
 <div id="sidebar" align="center">
   
@@ -49,9 +49,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
 </div>
-
-## 🔥My Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-sg&theme=highcontrast&show_icons=true)
 
 -   **Thanks for visiting.**
