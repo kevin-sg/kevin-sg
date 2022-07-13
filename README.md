@@ -3,6 +3,7 @@
 ## Hi there 👋 I'm Kevin Salazar!
 
 :computer: I'm Front-End & Back-end Developer!
+
 :books: I am currently improving my skills.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevinsalazar99) 
