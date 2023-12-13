@@ -22,7 +22,7 @@ I'm **Kevin** - I'm Full-Stack Web Developer. I'm interesting in development and
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0e76a8&color=black" style="border: 1px solid transparent; border-radius: 6px;">
 </a>
 <a href="https://medium.com/@kevin.boster99" target="_blank">
-   <img src="	https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=ffffff&color=black" style="border: 1px solid transparent; border-radius: 6px;">
+   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=ffffff&color=black" style="border: 1px solid transparent; border-radius: 6px;">
 </a>
 <a href="https://twitter.com/zeus_ssa99" target="_blank">
    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=0e76a8&color=black" style="border: 1px solid transparent; border-radius: 6px;">
