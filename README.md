@@ -1,13 +1,14 @@
-# Hey There! 👋
+# Hi there, I'm Kevin 👋
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.kevin-sg)
 
 <div id="icons" align="left">
 
-I'm **Kevin** - I'm Full-Stack Web Developer. I'm interesting in development and community online. I work on random projects in my free time.
+I'm Full-Stack Web Developer. I'm interesting in development and community online. I work on random projects in my free time.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,remix,tauri,styledcomponents,emotion,jest,tailwind,bootstrap,nodejs,express,nest&theme=dark&perline=14)](Technologies)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,mongodb,mysql,sqlite,postgres,prisma,linux,bash,docker,kubernetes,git,githubactions,figma,neovim,vscode&theme=dark&perline=10)](Technologies)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,remix,tauri,styledcomponents,emotion,jest,tailwind,bootstrap&theme=dark&perline=11)](Technologies) <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,aws,gcp,mongodb,mysql,sqlite,postgres,prisma&theme=dark&perline=10)](Technologies)<br>
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,githubactions,figma,neovim,vscode&theme=dark&perline=9)](Technologies)
 
 </div>
 
